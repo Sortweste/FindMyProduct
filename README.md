@@ -10,6 +10,8 @@
 
 ## Source Code
 
+The code has been split in several repositories for convenience.
+
 ### Front-End
 
 The code for mobile application is available at
