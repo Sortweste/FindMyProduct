@@ -37,4 +37,4 @@ You're free to use those images to train your own model.
 ## License
 
 The code is distributed under the [GPLv3 License](LICENSE.md)
-All files in `assets/` are distributed under the 
+All files in `assets/` are distributed under the [CC BY-SA 4.0 License](./assets/LICENSE.md)
