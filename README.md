@@ -12,14 +12,33 @@
 
 ### Front-End
 
+The code for mobile application is available at
+
+https://github.com/hugopinto1997/FindMyProduct_FrontEnd
+
 ### Back-End
 
+The code for API is available at
+
+https://github.com/00198216/FindMyProduct_BackEnd
+
 ### Real-Time Object Detection Model
-You're free to use those images to train your own model.
+
+All files related to train the Model are available at
+
+https://github.com/Sortweste/FindMyProduct_MachineLearning
 
 ### Dataset
 
+The Dataset is available at
+
+https://github.com/Sortweste/FindMyProduct_Dataset
+
+You're free to use those images to train your own model.
+
 ## Install
+
+## Demo
 
 ## Contributors
 
