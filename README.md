@@ -32,9 +32,11 @@ You're free to use those images to train your own model.
 
 ## Special Thanks to
 
+* [shaquian](https://github.com/shaqian/)
 
+For allow us to use the source code from https://github.com/shaqian/flutter_realtime_detection 
 
 ## License
 
-The code is distributed under the [GPLv3 License](LICENSE.md)
+The code is distributed under the [GPLv3 License](LICENSE.md) <br>
 All files in `assets/` are distributed under the [CC BY-SA 4.0 License](./assets/LICENSE.md)
