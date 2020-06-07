@@ -1,5 +1,8 @@
 # FindMyProduct
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+
 <p align="center"><img src="./assets/Images/logo.jpg" alt="App logo" width="250px" height="250px"></p>
 
 ## Built With
@@ -41,6 +44,12 @@ You're free to use those images to train your own model.
 ## Install
 
 ## Demo
+
+## Contributing
+
+* Pull Request's are accepted in each repository.
+* Read the CONTRIBUTING.md file for each repository.
+* Update the README.md file with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 
 ## Contributors
 
