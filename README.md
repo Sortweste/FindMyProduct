@@ -62,7 +62,7 @@ You're free to use those images to train your own model.
 
 ## Special Thanks to
 
-* [shaquian](https://github.com/shaqian/)
+* [shaqian](https://github.com/shaqian/)
 
 For allow us to use the source code from https://github.com/shaqian/flutter_realtime_detection 
 
