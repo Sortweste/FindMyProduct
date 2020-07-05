@@ -1,6 +1,6 @@
 # FindMyProduct
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Sortweste/FindMyProduct/#contributing-link) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 FindMyProduct is a new mobile app, where it can be possible to detect objects in real time, helping people with shopping of groceries and supermarket products, it has some characteristics like recognizing objects with the phone camera.
 
@@ -46,7 +46,9 @@ You're free to use those images to train your own model.
 
 ## Demo
 
-## Contributing
+
+
+## Contributing [](#contributing-link)
 
 * Pull Request's are accepted in each repository.
 * Read the CONTRIBUTING.md file for each repository.
