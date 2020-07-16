@@ -49,7 +49,7 @@ Our app is intuitive, but in case some instructions are needed [access the wiki]
 
 ## Demo
 
-
+<p align="center"><img src="https://github.com/Sortweste/FindMyProduct/blob/master/assets/Images/App%20Captures/DEMO.gif" alt="Demo gif" width="250px" height="auto"></p>
 
 ## Contributing
 
