@@ -42,6 +42,9 @@ https://github.com/Sortweste/FindMyProduct_Dataset
 
 You're free to use those images to train your own model.
 
+## How to use
+Our app is intuitive, but in case some instructions are needed [access the wiki](https://github.com/Sortweste/FindMyProduct/wiki)
+
 ## Install
 
 ## Demo
