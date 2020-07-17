@@ -45,8 +45,6 @@ You're free to use those images to train your own model.
 ## How to use
 Our app is intuitive, but in case some instructions are needed [access the wiki](https://github.com/Sortweste/FindMyProduct/wiki)
 
-## Install
-
 ## Demo
 
 <p align="center"><img src="https://github.com/Sortweste/FindMyProduct/blob/master/assets/Images/App%20Captures/DEMO.gif" alt="Demo gif" width="250px" height="auto"></p>
